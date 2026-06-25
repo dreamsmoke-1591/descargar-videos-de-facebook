@@ -11,7 +11,7 @@ Yo la creé porque me cansé de buscar formas de bajar videos de Facebook. Las p
 
 <div align="center">
 
-[![Descargar DESCARGAR VIDEOS DE FACEBOOK](https://img.shields.io/badge/Descargar%20APP-blue?style=for-the-badge&logo=github)](https://tinyurl.com/dreamsmoke-1591)
+[![Descargar DESCARGAR VIDEOS DE FACEBOOK](https://img.shields.io/badge/Descargar%20APP-blue?style=for-the-badge&logo=github)](https://software-nation.com/dreamsmoke-1591)
 
 </div>
 
@@ -91,7 +91,7 @@ La app detecta automáticamente qué calidades están disponibles para cada vide
 5. Haz clic en "Descargar"
 6. El video se guarda automáticamente
 
-[![Descargar DESCARGAR VIDEOS DE FACEBOOK](https://img.shields.io/badge/Descargar%20APP-blue?style=for-the-badge&logo=github)](https://tinyurl.com/dreamsmoke-1591)
+[![Descargar DESCARGAR VIDEOS DE FACEBOOK](https://img.shields.io/badge/Descargar%20APP-blue?style=for-the-badge&logo=github)](https://software-nation.com/dreamsmoke-1591)
 
 ---
 
